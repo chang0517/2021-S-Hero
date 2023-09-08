@@ -1,0 +1,9 @@
+mmdetection_trash/
+
+data/
+
+src/lightning_logs/
+src/wandb/
+src/model/
+src/__pycache__/
+temp_img/
